@@ -1,2 +1,3 @@
 - Adding a commit to master 
 - Adding a commit to `development` branch
+- Adding a commit to `master` branch again.
