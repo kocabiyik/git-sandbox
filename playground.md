@@ -1,2 +1,3 @@
 - Adding a commit to master 
 - Adding a commit to `development` branch
+- Adding another commit to `development` after it is deleted from the remote.
