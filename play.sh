@@ -3,4 +3,5 @@ do
   echo "Looping ... number $i"
   sleep 1
   clear
+  python play.py
 done
